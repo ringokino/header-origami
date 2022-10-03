@@ -1,0 +1,46 @@
+body {
+	margin: 0%;
+}
+.navbar {
+	background-color: darkgray;
+	height: 12vh;
+	display: flex;
+	align-items: center;
+}
+.header {
+	background-image: url(../code/img/origami.png);
+	height: 88vh;
+	display: flex;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+}
+.punchline {
+	margin-left: auto;
+	margin-right: auto;
+	align-self: center;
+	color: white;
+	font-size: 4em;
+	text-transform: uppercase;
+	text-transform: bold;
+	background-color: rgba(36, 36, 36, 0.45)
+}
+.logo {
+	display: flex;
+	margin-left: 20px;
+	margin-right: auto;
+	justify-content: left;
+	align-items: left;
+	color: white;
+	font-size: 2.25em;
+	text-transform: uppercase;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.lien {
+	display: flex;
+	text-decoration: none;
+	color: white;
+	margin: 20px;
+	font-size: 1.25em;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
